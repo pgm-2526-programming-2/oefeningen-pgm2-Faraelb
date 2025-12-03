@@ -1,7 +1,4 @@
-function sorterenOpEigenschap(objecten, eigenschap) {
- 
-;
-}
+function sorterenOpEigenschap(objecten, eigenschap) {}
 let objectenArray = [
   { naam: "Anna", leeftijd: 30 },
   { naam: "Bob", leeftijd: 25 },

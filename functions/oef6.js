@@ -1,9 +1,9 @@
 function mainLogic(Callback) {
-Callback();
+  Callback();
 }
 
 function myCallback() {
-    console.log("dit is de callback-functie");
+  console.log("dit is de callback-functie");
 }
 
 mainLogic(myCallback);
