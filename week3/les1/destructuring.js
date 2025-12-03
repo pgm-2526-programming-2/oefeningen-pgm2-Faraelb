@@ -38,3 +38,8 @@ console.log(lastTrack); //undefined
 //doel: array opsplitsen in eerste element en de rest. 
 const [head, ...tail] = [1, 2, 3, 4, 5]  // tail = [2,3, 4, 5]   head= 1
 
+
+
+
+//
+const { { name:artistNme , artist}, lastTrack} = songs;
