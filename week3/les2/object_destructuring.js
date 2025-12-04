@@ -43,7 +43,7 @@ const info = {
     name: "7 things"
 }
 
-function editSong(s, (name)) {  is object
+function editSong(s, (name)) { is object
 
 s.name = name;
 }
